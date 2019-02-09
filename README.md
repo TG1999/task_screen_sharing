@@ -6,6 +6,6 @@ Then tick the developer option at top right corner.<br>
 Select load Unpacked at top left corner<br>
 Then select the extension folder from task_screen_sharing<br>
 After that there will be an extension downloaded Screen Capture with an ID like this:-
-![img](https://user-images.githubusercontent.com/34160672/52522462-bd642f00-2cab-11e9-9f46-97ec65c329cd.png)
+![picture](img.png)
 
 
