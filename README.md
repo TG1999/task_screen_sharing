@@ -12,9 +12,11 @@ After that there will be an extension downloaded Screen Capture with an ID like 
 4)```npm install``` \
 5)```npm start``` \
 6)Then open ```localhost:2000(presenter)```  \
-7)Open ```localhost:2000/client.html(reciever)``` \
+7)Open ```localhost:2000/client.html(reciever)``` 
 ### NOTE:- SETUP BOTH PRESENTER AND RECIEVER BEFORE START SCREEN SHARING JUST LIKE HANGOUTS BOTH MUST BE PRESENT BEFORE SCREEN SHARING
 8)From Presenter Tab now start screen sharing Select Application,Entire Screen,Only that Tab \
 ![picture](img1.png)
 9)Select a screen from that and start sharing<br>
+![picture](img2.png)
 10)Now reciever side will be recieving the stream.
+![picture](img4.png)
