@@ -4,24 +4,18 @@ const http=require('http');
 const server=http.createServer(app);
 const socketio=require('socket.io');
 const io=socketio(server);
+var path=require('path');
 const port=process.env.PORT||2000;
 app.use(express.urlencoded({extended:true}));
 app.use(express.json());
+app.use(express.static(path.join(__dirname,'/public')))
 app.get('/',(req,res)=>{
     res.sendFile(__dirname+'/public/index.html')
 })
-app.post('/abc',(req,res)=>{
-console.log(req.body.stream);
-res.send(stream);
-})
 io.on('connection',(socket)=>{
-    console.log(socket.id);
-    console.log('connected');
+    
     socket.on('stream',(data)=>{
-        for( var vi in data.stream)
-        {
-            console.log(vi);
-        }
+        io.emit('stream',data);  
     })
 })
 server.listen(port,()=>{
