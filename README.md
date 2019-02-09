@@ -1,12 +1,12 @@
 # task_screen_sharing
-<h3>THIS IS NOW ONLY RUNNING ON CHROME</h3>
-1)<code>git clone https://github.com/TG1999/task_screen_sharing.git</code><br>
-2)### Install extensions in chrome </h3>
-open <code>chrome://extensions</code>in google chrome
-Then tick the developer option at top right corner.
-Select load Unpacked at top left corner
-Then select the extension folder from task_screen_sharing
-After that there will be an extension downloaded Screen Capture with an ID like this:-<br>
+### THIS IS NOW ONLY RUNNING ON CHROME
+1)'''git clone https://github.com/TG1999/task_screen_sharing.git''' \
+2)### Install extensions in chrome \
+open '''chrome://extensions''' in google chrome \
+Then tick the developer option at top right corner. \
+Select load Unpacked at top left corner \
+Then select the extension folder from task_screen_sharing \
+After that there will be an extension downloaded Screen Capture with an ID like this:- \
 ![picture](img.png)
 3)Change extension id at line number 29 in <code>/public/index.html</code> <br>
 4)<code>npm install</code><br>
