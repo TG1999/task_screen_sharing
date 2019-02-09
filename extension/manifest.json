@@ -1,7 +1,7 @@
 {
   "name": "Screen Capture",
   "description":
-    "An extension to allow you to test Twilio Video screen sharing locally.",
+    "An extension to allow you to test screen sharing",
   "version": "0.1.0",
   "manifest_version": 2,
   "background": {
