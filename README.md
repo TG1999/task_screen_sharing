@@ -10,8 +10,10 @@ After that there will be an extension downloaded Screen Capture with an ID like 
 3)Change extension id at line number 29 in <code>/public/index.html</code> <br>
 4)<code>npm install</code><br>
 5)<code>npm start</code><br>
-6)Then open <code>localhost:2000</code><br>
-7)To start screen sharing(presenter)<br>
-8)Open <code>localhost:2000/client.html</code><br>
-8)Select Application Window,Your entire screen,Chrome Tab
+6)Then open <code>localhost:2000(presenter)</code><br>
+7)Open <code>localhost:2000/client.html(reciever)</code><br>
+8)Start screen sharing from presenter tab<br>
+<h2>NOTE:- SETUP BOTH PRESENTER AND RECIEVER BEFORE START SCREEN SHARING JUST LIKE HANGOUTS BOTH MUST BE PRESENT BEFORE SCREEN SHARING</h2>
+9)Select Application Window(Only Google Chrome),Your entire screen(Every Application of laptop),Chrome Tab(only that particular tab
 ![picture](img1.png)
+10)Select any Screen then click Share 
