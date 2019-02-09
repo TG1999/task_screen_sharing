@@ -7,3 +7,4 @@ Select load Unpacked at top left corner
 Then select the extension folder from task_screen_sharing
 After that there will be an extension downloaded Screen Capture with an ID like this:-<br>
 ![picture](img.png)
+3)Change extension id
