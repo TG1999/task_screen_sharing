@@ -6,5 +6,5 @@ Then tick the developer option at top right corner.<br>
 Select load Unpacked at top left corner<br>
 Then select the extension folder from task_screen_sharing<br>
 After that there will be an extension downloaded Screen Capture with an ID like this:-<br>
-![alt picture](/img.png)
+![alt text](/img.png "Description goes here")
 
