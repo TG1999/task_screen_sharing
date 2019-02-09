@@ -7,4 +7,11 @@ Select load Unpacked at top left corner
 Then select the extension folder from task_screen_sharing
 After that there will be an extension downloaded Screen Capture with an ID like this:-<br>
 ![picture](img.png)
-3)Change extension id
+3)Change extension id at line number 29 in <code>/public/index.html</code> <br>
+4)<code>npm install</code><br>
+5)<code>npm start</code><br>
+6)Then open <code>localhost:2000</code><br>
+7)To start screen sharing(presenter)<br>
+8)Open <code>localhost:2000/client.html</code><br>
+8)Select Application Window,Your entire screen,Chrome Tab
+![picture](img1.png)
