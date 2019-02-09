@@ -1,5 +1,5 @@
 # task_screen_sharing
-<h2>THIS IS NOW ONLY RUNNING ON CHROME</h2>
+<h3>THIS IS NOW ONLY RUNNING ON CHROME</h3>
 1)<code>git clone https://github.com/TG1999/task_screen_sharing.git</code><br>
 2)<h3>Install extensions in chrome </h3>
 open <code>chrome://extensions</code>in google chrome
@@ -13,7 +13,7 @@ After that there will be an extension downloaded Screen Capture with an ID like 
 5)<code>npm start</code><br>
 6)Then open <code>localhost:2000(presenter)</code><br>
 7)Open <code>localhost:2000/client.html(reciever)</code><br>
-<h2>NOTE:- SETUP BOTH PRESENTER AND RECIEVER BEFORE START SCREEN SHARING JUST LIKE HANGOUTS BOTH MUST BE PRESENT BEFORE SCREEN SHARING</h2>
+<h3>NOTE:- SETUP BOTH PRESENTER AND RECIEVER BEFORE START SCREEN SHARING JUST LIKE HANGOUTS BOTH MUST BE PRESENT BEFORE SCREEN SHARING</h3>
 8)From Presenter Tab now start screen sharing Select Application,Entire Screen,Only that Tab<br>
 9)Select a screen from that and start sharing<br>
 10)Now reciever side will be recieving the stream.
