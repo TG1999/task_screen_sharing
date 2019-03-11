@@ -20,5 +20,3 @@ After that there will be an extension downloaded Screen Capture with an ID like 
 ![picture](img2.png)
 10)Now reciever side will be recieving the stream.
 ![picture](img4.png)
-![fig](1a.gif)
-![fig](2a.gif)
